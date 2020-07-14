@@ -4,9 +4,9 @@
   
   Before you could say anything, the man pulls back the chair, hops a leg over and drops brashly, while swooping his hoodie backwards, revealing more of his welcoming gaze.
   
-  "Sorry, didn't get a chance to brew the morning coffee, so I hope you enjoy some detox water. Name's Oytun, by the way."
+  **"Sorry, didn't get a chance to brew the morning coffee, so I hope you enjoy some detox water. Name's Oytun, by the way."**
   
-  He extends a hand, and in the milisecond of his gesture a glimpse of embarrasment swoops in as he retracts his hand. "My bad, old habits." He puts his hand on his chest as a gesture of salute. "So, how can I help you? You probably didn't come all the way here for nothing."
+  He extends a hand, and in the milisecond of his gesture a glimpse of embarrasment swoops in as he retracts his hand. **"My bad, old habits."** He puts his hand on his chest as a gesture of salute. **"So, how can I help you? You probably didn't come all the way here for nothing."**
   
 1. [Ignore him and start staring at the works on the wall](https://github.com/oytuneyucel)
 2. [Ask about his adventures](https://linkedin.com/in/oytuneyucel)
