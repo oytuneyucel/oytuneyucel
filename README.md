@@ -1,3 +1,4 @@
+`npx oey`
 
   You hop through a long thread of irrelevant information, and find yourself in a room. You're quite uncertain how and why you've landed here, but your instincts keep telling you that you are exactly where you're supposed to be. From the alleyway across the room, you see a hooded figure walking up to you. His bloodshot eyes and stubble ooze weariness, but his mild smile and vivacious stare contradict with the notion that he might be tortured by the tasks flowing from his blistered hands. There is an inscription, a scar tattoo on his wrist that spells out **JS**... you wonder if it's an old lover or an acronym for his homeland.
   
