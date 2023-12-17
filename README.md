@@ -10,5 +10,5 @@
   
 1. [Ignore him and start staring at the works on the wall](https://github.com/oytuneyucel)
 2. [Ask about his adventures](https://linkedin.com/in/oytuneyucel)
-3. [Let the man speak his mind. He clearly has a lot dangling from the tip of his tongue?](https://twitter.com/oeyucel)
+3. [Let the man speak his mind. He clearly has a lot dangling from the tip of his tongue?](https://twitter.com/oytuneyucel)
 4. [Start a conversation about a completely random topic](mailto:oytuneyucel@gmail.com)
